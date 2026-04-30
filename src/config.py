@@ -1,0 +1,1 @@
+WEIGHTS = {"cough":0.35, "environment":0.40, "physiology":0.25}
