@@ -1,4 +1,4 @@
-# INDEX (Environmental Health Risk Index) API
+Environmental Health Risk Index
 
 A FastAPI-based service for real-time air pollution monitoring and health risk assessment using official Indian pollution data from CPCB (Central Pollution Control Board).
 
